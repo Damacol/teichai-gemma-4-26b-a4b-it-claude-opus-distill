@@ -1,4 +1,4 @@
-# TeichAI/gemma-4-26B-A4B-it-Claude-Opus-Distill - Private, Uncensored AI for Real Creators and Devs
+# TeichAI/gemma-4-26B-A4B-it-Claude-Opus-Distill  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
